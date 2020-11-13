@@ -1,0 +1,22 @@
+.add-on{
+    padding:  0px;
+    margin: 1rem 3rem;
+}
+.dateClass{
+    padding-top: 30px;
+}
+.addpad{
+    padding: 30px;
+}
+body{
+    overflow-x: hidden;
+}
+#root{
+    position: relative;
+    left: 1.5%;
+}
+.wow{
+    position: relative;
+    left: 1%;
+    margin-top: 30px;
+}
